@@ -1,4 +1,4 @@
-# Smart Contact Manager
+# ContactHub - A Smart Contact Manager
 
 A secure, web-based contact management application built with **Java, Spring Boot, Spring Security, Thymeleaf, JPA/Hibernate, and MySQL**.
 
